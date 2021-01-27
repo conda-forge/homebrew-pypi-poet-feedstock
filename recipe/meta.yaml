@@ -11,7 +11,7 @@ source:
   sha256: e09e997e35a98f66445f9a39ccb33d6d93c5cd090302a59f231707eac0bf378e
 
 build:
-  number: 0
+  number: 1
   noarch: python
   entry_points:
     - poet=poet:main
