@@ -11,8 +11,8 @@ Summary: Generates Homebrew resource stanzas for Python packages
 
 Development: https://github.com/tdsmith/homebrew-pypi-poet
 
-Invoked `like poet` foo for some package foo which is presently installed
-in sys.path, determines which packages foo and its dependents depend on,
+Invoked like `poet foo` for some package foo **which is presently installed
+in sys.path**, determines which packages foo and its dependents depend on,
 downloads them from pypi and computes their checksums, and spits out
 Homebrew resource stanzas.
 
